@@ -1,0 +1,63 @@
+{"nodes": [{"id":"竈門炭治郎", "group":6},
+           {"id":"富岡義勇", "group":6},
+           {"id":"鱗滝左近冶", "group":6},
+           
+           {"id":"我妻善逸", "group":2},
+           {"id":"獪岳", "group":2},
+           {"id":"桑島慈悟郎", "group":2},
+           
+           {"id":"胡蝶カナエ", "group":3},
+           {"id":"胡蝶しのぶ", "group":3},
+           {"id":"栗花落カナヲ", "group":3},
+           
+           {"id":"不死川玄弥", "group":5},
+           {"id":"不死川実弥", "group":5},
+           
+           {"id":"嘴平伊之助", "group":4}],
+           
+ 
+"links": [{"source":"竈門炭治郎", "target":"鱗滝左近冶","value":3.3869},
+           {"source":"竈門炭治郎", "target":"富岡義勇","value":3.5055},
+           {"source":"鱗滝左近冶", "target":"富岡義勇","value":6.4082},
+           
+           {"source":"我妻善逸", "target":"獪岳","value":3.5837},
+           {"source":"我妻善逸", "target":"桑島慈悟郎","value":2},
+           {"source":"獪岳", "target":"桑島慈悟郎","value":2},
+           
+           {"source":"栗花落カナヲ", "target":"胡蝶しのぶ","value":3.5837},
+           {"source":"栗花落カナヲ", "target":"胡蝶カナエ","value":2},
+           {"source":"胡蝶しのぶ", "target":"胡蝶カナエ","value":2},
+          
+          {"source":"不死川玄弥", "target":"不死川実弥","value":3.5837},
+           {"source":"不死川実弥", "target":"不死川玄弥","value":2},
+          
+          
+          {"source":"竈門炭治郎", "target":"我妻善逸","value":3.5837},
+           {"source":"竈門炭治郎", "target":"嘴平伊之助","value":2},
+          {"source":"竈門炭治郎", "target":"栗花落カナヲ","value":2},
+          {"source":"竈門炭治郎", "target":"不死川玄弥","value":2},
+          
+           {"source":"我妻善逸", "target":"竈門炭治郎","value":2},
+          {"source":"我妻善逸", "target":"嘴平伊之助","value":2},
+          {"source":"我妻善逸", "target":"栗花落カナヲ","value":2},
+          {"source":"我妻善逸", "target":"不死川玄弥","value":2},
+          
+          {"source":"嘴平伊之助", "target":"竈門炭治郎","value":2},
+          {"source":"嘴平伊之助", "target":"我妻善逸","value":2},
+          {"source":"嘴平伊之助", "target":"栗花落カナヲ","value":2},
+          {"source":"嘴平伊之助", "target":"不死川玄弥","value":2},
+          
+          {"source":"栗花落カナヲ", "target":"竈門炭治郎","value":2},
+          {"source":"栗花落カナヲ", "target":"我妻善逸","value":2},
+          {"source":"栗花落カナヲ", "target":"嘴平伊之助","value":2},
+          {"source":"栗花落カナヲ", "target":"不死川玄弥","value":2},
+          
+          {"source":"不死川玄弥", "target":"竈門炭治郎","value":2},
+          {"source":"不死川玄弥", "target":"我妻善逸","value":2},
+          {"source":"不死川玄弥", "target":"嘴平伊之助","value":2},
+          {"source":"不死川玄弥", "target":"栗花落カナヲ","value":2}
+        
+           
+          
+          
+          ]}
